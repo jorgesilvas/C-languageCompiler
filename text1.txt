@@ -1,0 +1,16 @@
+int main(){
+int x = 5;
+int y;
+bool x ;
+x = false;
+y=2;
+if(x >= 4){
+    if(x <= 9){
+        y = 5;
+    }
+}
+else{
+    y=6;
+}
+print_int(y);
+}

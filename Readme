@@ -1,0 +1,9 @@
+Para compilar escrever na linha de comandos :
+$ make
+
+Para executar o programa :
+$ ./main text1.txt 
+ //--------------------------------------------//
+
+
+text1 e text2 dão corretamente , text3 dá erro devido ao facto que existe 2 elses seguidos. 
